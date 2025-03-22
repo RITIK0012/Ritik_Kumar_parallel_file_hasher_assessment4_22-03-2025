@@ -10,17 +10,6 @@ Collect & Display  The main function gathers the results and prints them.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Start
  |
  |--- WalkDirectory (Find files in the directory)
